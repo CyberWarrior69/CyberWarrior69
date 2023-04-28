@@ -1,32 +1,33 @@
 # SummerCybersecurityWorkshop
+![cyberjobs](https://user-images.githubusercontent.com/131898609/235137901-82e3136e-4f04-4965-8d95-215f54f64f8f.jpeg)
 
 A wonderful summer cybersecurity workshop should be informative, engaging, and interactive. Here's an example of how such a workshop could be conducted:
 
-Day 1: Introduction to Cybersecurity
+Day 1-5: Introduction to Cybersecurity
 
     Introduce the concept of cybersecurity and its importance in today's digital world.
     Discuss the common types of cyber threats, such as phishing, malware, and social engineering.
     Have a hands-on session on setting up basic security measures, such as password management and two-factor authentication.
 
-Day 2: Cybersecurity Best Practices
+Day 6-10: Cybersecurity Best Practices
 
     Go through some cybersecurity best practices for individuals and businesses.
     Cover topics such as data privacy, network security, and incident response.
     Discuss the importance of ethical hacking and introduce some basic tools for vulnerability scanning.
 
-Day 3: Cybercrime Investigation
+Day 11-15: Cybercrime Investigation
 
     Provide an overview of cybercrime investigation and digital forensics.
     Walk through some real-world examples of cybercrime cases and discuss the techniques used to solve them.
     Have a hands-on session on forensic analysis of digital evidence.
 
-Day 4: Emerging Threats and Technologies
+Day 16-25: Emerging Threats and Technologies
 
     Discuss the latest cybersecurity trends, such as the use of artificial intelligence and blockchain.
     Cover topics such as IoT security, cloud security, and mobile security.
     Have a hands-on session on hacking IoT devices and securing cloud-based applications.
 
-Day 5: Closing Session and Certificate Ceremony
+Day 26-28: Closing Session and Certificate Ceremony
 
     Review the key takeaways from the workshop.
     Allow participants to ask any remaining questions.
@@ -52,7 +53,7 @@ Throughout the workshop, it's important to keep the participants engaged with in
 </br>
 
 
-<h4> Dear Cyberwarriors,</h4>
+<h4> Dear Cyberwarrior,</h4>
 
 As responsible citizens of our country, we have a shared responsibility to ensure the safety and security of our fellow netizens. It is our duty to uphold the values of our motherland and protect its citizens from any harm or threat in the online world.
 
