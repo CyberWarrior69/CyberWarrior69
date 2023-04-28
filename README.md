@@ -1,7 +1,7 @@
 # SummerCybersecurityWorkshop
 ![cyberjobs](https://user-images.githubusercontent.com/131898609/235137901-82e3136e-4f04-4965-8d95-215f54f64f8f.jpeg)
 
-A wonderful summer cybersecurity workshop should be informative, engaging, and interactive. Here's an example of how such a workshop could be conducted:
+A wonderful summer cybersecurity workshop enhances the prime importance of understanding the job requirements and evolving trends. This workshop would a big boost onto your current level of knowledge as its informative, engaging, and interactive. Here's an example of our workshop could be conducted:
 
 Day 1-5: Introduction to Cybersecurity
 
